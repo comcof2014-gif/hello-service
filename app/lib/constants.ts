@@ -32,4 +32,4 @@ export const AUTH_ROUTES = {
   SIGNUP: "/signup",
 } as const;
 
-export const PROTECTED_ROUTES = ["/dashboard"] as const;
+export const PROTECTED_ROUTES = ["/dashboard", "/chat", "/plans", "/admin"] as const;
