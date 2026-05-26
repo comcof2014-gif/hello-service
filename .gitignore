@@ -43,3 +43,7 @@ next-env.d.ts
 # claude code local
 .claude/settings.local.json
 .omc/
+
+# pnpm (project uses npm)
+pnpm-lock.yaml
+pnpm-workspace.yaml
